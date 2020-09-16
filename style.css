@@ -6,6 +6,7 @@ body {
 h1 {
   color: whitesmoke;
   font-weight: 600;
+  text-align: center;
 }
 
 img {
@@ -17,6 +18,20 @@ img {
 .obsah {
   margin-left: auto;
   margin-right: auto;
-  text-align: center;
   width: 300px;
+}
+
+p {
+  color: whitesmoke;
+}
+
+a {
+  text-decoration: none;
+  text-transform: uppercase;
+  font-weight: 600;
+  color: grey;
+}
+
+a:hover {
+  color: whitesmoke;
 }
